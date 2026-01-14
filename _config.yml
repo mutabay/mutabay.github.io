@@ -1,0 +1,19 @@
+title: Mustafa Tayyip Bayram
+description: Senior Performance Engineer & AI Specialist
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+author:
+  name: Mustafa Tayyip Bayram
+  email: contact@mutabay.dev
+
+social_links:
+  github: mutabay
+  linkedin: mustafatayyipbayram
+
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
