@@ -1,38 +1,93 @@
-# Sample Data for Web Scraping Testing Product Hiostory Data
+# Mustafa Tayyip Bayram
 
-This page contains sample data for testing web scraping scripts.
+**Senior Specialist Performance Engineer | Diplom-Ingenieur**
 
-| PRODUCT_ID | TIME_STAMP       | Parameter 1 | Machine       | Facility      | Location    | QTY  | Unit 1 | Type_ID   |
-|------------|------------------|-------------|---------------|---------------|-------------|------|--------|-----------|
-| PID_123456 | 2023-01-01 12:00 | 10.5        | Machine A     | North Plant   | New York    | 100  | Unit A | TID_10001 |
-| PID_123456 | 2023-01-02 13:00 | 20.2        | Machine B     | South Factory | Los Angeles | 200  | Unit A | TID_10001 |
-| PID_123456 | 2023-01-03 14:00 | 30.1        | Machine C     | East Warehouse| Chicago     | 300  | Unit A | TID_10001 |
-| PID_123456 | 2023-01-04 15:00 | 40.5        | Machine A     | North Plant   | New York    | 400  | Unit A | TID_10001 |
-| PID_123456 | 2023-01-05 16:00 | 50.2        | Machine B     | South Factory | Los Angeles | 500  | Unit A | TID_10001 |
-| PID_123456 | 2023-01-06 17:00 | 60.1        | Machine C     | East Warehouse| Chicago     | 600  | Unit A | TID_10001 |
-| PID_123456 | 2023-01-07 18:00 | 70.5        | Machine A     | North Plant   | New York    | 700  | Unit A | TID_10001 |
-| PID_123456 | 2023-01-08 19:00 | 80.2        | Machine B     | South Factory | Los Angeles | 800  | Unit A | TID_10001 |
-| PID_123456 | 2023-01-09 20:00 | 90.1        | Machine C     | East Warehouse| Chicago     | 900  | Unit A | TID_10001 |
-| PID_123456 | 2023-01-10 21:00 | 100.5       | Machine A     | North Plant   | New York    | 1000 | Unit A | TID_10001 |
-| PID_789012 | 2023-01-11 22:00 | 110.2       | Machine B     | South Factory | Los Angeles | 1100 | Unit B | TID_10002 |
-| PID_789012 | 2023-01-12 23:00 | 120.1       | Machine C     | East Warehouse| Chicago     | 1200 | Unit B | TID_10002 |
-| PID_789012 | 2023-01-13 00:00 | 130.5       | Machine A     | North Plant   | New York    | 1300 | Unit B | TID_10002 |
-| PID_789012 | 2023-01-14 01:00 | 140.2       | Machine B     | South Factory | Los Angeles | 1400 | Unit B | TID_10002 |
-| PID_789012 | 2023-01-15 02:00 | 150.1       | Machine C     | East Warehouse| Chicago     | 1500 | Unit B | TID_10002 |
-| PID_789012 | 2023-01-16 03:00 | 160.5       | Machine A     | North Plant   | New York    | 1600 | Unit B | TID_10002 |
-| PID_789012 | 2023-01-17 04:00 | 170.2       | Machine B     | South Factory | Los Angeles | 1700 | Unit B | TID_10002 |
-| PID_789012 | 2023-01-18 05:00 | 180.1       | Machine C     | East Warehouse| Chicago     | 1800 | Unit B | TID_10002 |
-| PID_789012 | 2023-01-19 06:00 | 190.5       | Machine A     | North Plant   | New York    | 1900 | Unit B | TID_10002 |
-| PID_789012 | 2023-01-20 07:00 | 200.2       | Machine B     | South Factory | Los Angeles | 2000 | Unit B | TID_10002 |
-| PID_345678 | 2023-01-21 08:00 | 210.1       | Machine C     | East Warehouse| Chicago     | 2100 | Unit C | TID_10003 |
-| PID_345678 | 2023-01-22 09:00 | 220.5       | Machine A     | North Plant   | New York    | 2200 | Unit C | TID_10003 |
-| PID_345678 | 2023-01-23 10:00 | 230.2       | Machine B     | South Factory | Los Angeles | 2300 | Unit C | TID_10003 |
-| PID_345678 | 2023-01-24 11:00 | 240.1       | Machine C     | East Warehouse| Chicago     | 2400 | Unit C | TID_10003 |
-| PID_345678 | 2023-01-25 12:00 | 250.5       | Machine A     | North Plant   | New York    | 2500 | Unit C | TID_10003 |
-| PID_345678 | 2023-01-26 13:00 | 260.2       | Machine B     | South Factory | Los Angeles | 2600 | Unit C | TID_10003 |
-| PID_345678 | 2023-01-27 14:00 | 270.1       | Machine C     | East Warehouse| Chicago     | 2700 | Unit C | TID_10003 |
-| PID_345678 | 2023-01-28 15:00 | 280.5       | Machine A     | North Plant   | New York    | 2800 | Unit C | TID_10003 |
-| PID_345678 | 2023-01-29 16:00 | 290.2       | Machine B     | South Factory | Los Angeles | 2900 | Unit C | TID_10003 |
-| PID_345678 | 2023-01-30 17:00 | 300.1       | Machine C     | East Warehouse| Chicago     | 3000 | Unit C | TID_10003 |
+Klagenfurt, Austria | [GitHub](https://github.com/mutabay) | [LinkedIn](https://linkedin.com/in/mustafatayyipbayram)
 
+---
 
+## EXPERIENCE
+
+### Infineon Technologies
+
+**Senior Specialist Performance Engineer**  
+*Villach, Austria | Jul 2024 – Present*
+
+- Big Data and advanced analytics pipelines for equipment analysis across systems.
+- Performance analysis of semiconductor equipment using large-scale measurement and log data.
+
+**Master Thesis Research**  
+*Villach, Austria | Jul 2024 – Jul 2025*
+
+- Conducted research on distributed systems, artificial intelligence, and software engineering.
+- Title: Exploring the Benefits of Action-Oriented Programming with Automatic Agent Generation for Root Cause Analysis and Risk Assessment
+
+**Computer Science Intern – Quality Management Digitalization Team (30 Hours/Week)**  
+*Villach, Austria | Mar 2023 – Jul 2024*
+
+- Developed an end-to-end application to digitalize quality management processes, leveraging software engineering, DevOps, and data science. Reduced report creation time from 2–3 hours to 5–6 seconds
+
+### prEUnec GmbH
+
+**Artificial Intelligence Intern – Erasmus Internship**  
+*Berlin, Germany | Jul 2022 – Sep 2022*
+
+- Worked on computer vision projects utilizing YOLO deep learning models for industrial automation, focusing on research, data preprocessing, and developing the initial model prototype.
+
+### Microsoft Türkiye
+
+**Microsoft Imagine Ambassador FY22 (Student Talent Program)**  
+*Istanbul, Türkiye | Dec 2021 – Jun 2022*
+
+- Participated in mentorship-driven technical and soft skill trainings and contributed to collaborative projects, including a sustainability-focused initiative on Gender Equality.
+
+### T.C. Ministry of Agriculture and Forestry
+
+**Software Engineer Intern**  
+*Ankara, Türkiye | Aug 2021 – Sep 2021*
+
+- Developed a full-stack web application using the MERN stack to improve meteorological data systems.
+
+---
+
+## EDUCATION
+
+### Alpen-Adria-Universität Klagenfurt
+
+**Master of Science in Informatics (AI Specialization)**  
+*Austria | Oct 2022 – Sep 2025*
+
+- Recipient of Technology Scholarship.
+
+### Maltepe University
+
+**Bachelor of Science in Software Engineering (English)**  
+*Istanbul, Turkey | Sep 2017 – Jun 2022*
+
+- Graduated in the top third of the department with honors degree.
+- Thesis: Aspect-Based Sentiment Analysis for Turkish.
+
+### Wroclaw University of Science and Technology
+
+**Erasmus+ Exchange Program in Applied Computer Science**  
+*Wroclaw, Poland | Oct 2020 – Jul 2021*
+
+---
+
+## SKILLS
+
+**Programming:** Python, Rust, C++, C#, Java, JavaScript
+
+**AI & ML:** NLP, GenAI, Agentic Systems, Computer Vision
+
+**Data & Big Data:** PL/SQL-NoSQL, Spark, ETL Pipelines
+
+**Technologies & Tools:** Docker, Kubernetes, OpenShift, Microsoft Azure
+
+**Languages:** Turkish (Native), English (Professional), German (Intermediate-B1)
+
+---
+
+## CERTIFICATIONS
+
+To view my complete list of certifications, visit: [LinkedIn Certifications](https://linkedin.com/in/mustafatayyipbayram).
